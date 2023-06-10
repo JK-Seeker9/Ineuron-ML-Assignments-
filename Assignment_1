@@ -1,0 +1,73 @@
+1.	What does one mean by the term "machine learning"?
+Ans:	Machine learning is a branch of artificial intelligence in which it allows software applications to become more accurate in predicting outcomes without being programmed to do so. It uses the past historical data to predict present and future outcomes.
+2.	Can you think of 4 distinct types of issues where it shines?
+Ans:	1. Predictive Analysis
+	    2. Fraud Detection
+	    3. Medical Diagnosis
+	    4. Self-Driving Cars
+	
+3.	What is a labelled training set, and how does it work?
+Ans:	Labelled training set are the data that has been labelled or tagged according to their type. For e.g., mails labelled as spam or important.
+        They can be created manually or automatically. The manually created training set are manually created by human by tagging each data, whereas automatically created training sets are created by algorithm.
+  
+4.	What are the two most important tasks that are supervised?
+Ans:	Classification and regression are two most important tasks that are supervised.
+
+5.	Can you think of four examples of unsupervised tasks?
+Ans:	1. Clustering 
+	    2. Dimensionality reduction
+	    3. Anomaly detection
+	    4. Association rule learning
+
+6.	State the machine learning model that would be best to make a robot walk through various unfamiliar terrains?
+Ans:	Reinforcement learning model would be best to make a robot walk through various unfamiliar terrains.
+
+7.	Which algorithm will you use to divide your customers into different groups?
+Ans:	To divide customers into different groups, K-means clustering or Hierarchical clustering are good options.
+
+8.	Will you consider the problem of spam detection to be a supervised or unsupervised learning problem?
+Ans:	Spam detection is a supervised learning problem. This means that the machine learning model is trained on a dataset of labelled data. Unsupervised learning doesn’t have any labelled data.
+
+9.	What is the concept of an online learning system?
+Ans:	An online learning system is that in which the machine learns from data as it arrives.
+Online learning systems are often used in situations where the data is arriving in a stream, such as in the case of spam filtering or fraud detection.
+ 
+10.	What is out-of-core learning, and how does it differ from core learning?
+Ans:	Out-of-core learning is a machine learning technique that allows you to train a model on a dataset that is too large to fit into memory. This is done by streaming the data from disk or another storage device and processing it one batch at a time.
+
+Core learning, on the other hand, is the traditional approach to machine learning, where the entire dataset is loaded into memory before training begins.
+
+11.	What kind of learning algorithm makes predictions using a similarity measure?
+Ans:	Instance based learning algorithms make predictions using a similarity measure.
+
+12.	What's the difference between a model parameter and a hyperparameter in a learning algorithm?
+Ans:	Model parameters are the values that are learned by the model during training. They are used to make predictions on new data. Hyperparameters are the values that are set by the user before training. They control the learning process and can have a big impact on the performance of the model.
+
+13.	What are the criteria that model-based learning algorithms look for? What is the most popular method they use to achieve success? What method do they use to make predictions?
+Ans:	Model-based learning algorithms look for patterns in the data that can be used to make predictions. The most popular method they use is supervised learning, where the model is trained on a set of data that includes both the input data and the desired output data. The model then learns to map the input data to the output data.
+
+14.	Can you name four of the most important Machine Learning challenges?
+Ans:	The four most important Machine Learning challenges are:
+            1.	Data scarcity
+            2.	Data quality
+            3.	Overfitting 
+            4.	Underfitting
+
+15.	What happens if the model performs well on the training data but fails to generalize the results to new situations? Can you think of three different options?
+Ans:	If a model performs well on the training data but fails to generalize to new situations, it is said to be overfitting.
+The three different options are:
+1.	Reduce the complexity of model.
+2.	Use regularization techniques.
+3.	Get more training data.
+
+16.	What exactly is a test set, and why would you need one?
+Ans:	A test set is a set of data that is held out from the training data and is used to evaluate the performance of the model. The test set is not used to train the model, so it provides an unbiased assessment of the model's performance.
+
+17.	What is a validation set's purpose?
+Ans:	A validation set is a subset of the training data that is used to evaluate the performance of the model during training. The validation set is used to tune the hyperparameters of the model and to prevent overfitting.
+
+18.	What precisely is the train-dev kit, when will you need it, how do you put it to use?
+Ans:	The train-dev kit is a set of tools that are used to train and evaluate Machine Learning models. The train-dev kit typically includes a data loader, a model trainer, and an evaluation metric.
+
+19.	What could go wrong if you use the test set to tune hyperparameters?
+Ans:	If you use the test set to tune hyperparameters, you run the risk of overfitting the model to the test set. This can lead to poor performance on new data. It is important to use a separate validation set to tune hyperparameters.

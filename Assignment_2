@@ -1,0 +1,69 @@
+1.	What is the concept of human learning? Please give two examples.
+    Ans:	Human learning is the process of acquiring knowledge, skills, and abilities through experience and education. Two examples of human learning are:
+        a.	Learning to walk and talk as a child.
+        b.	Learning to drive a car as an adult.
+
+2.	What different forms of human learning are there? Are there any machine learning equivalents?
+Ans:	There are three main forms of human learning:
+                a.	Explicit learning: This is the type of learning where we are consciously aware of what we are learning. 
+                b.	Implicit learning: This is the type of learning where we are not consciously aware of what we are learning.
+                c.	Experiential learning: This is the type of learning that occurs through experience.
+        There are no direct machine learning equivalents to these three forms of human learning. However, there are machine learning algorithms that can be used to simulate each of these forms of learning.
+
+3.	What is machine learning, and how does it work? What are the key responsibilities of machine learning?
+Ans:	Machine learning is a type of artificial intelligence (AI) that allows computers to learn without being explicitly programmed.      Machine learning algorithms are trained on data, and they use this data to learn how to make predictions or decisions.
+    The key responsibilities of ML are:
+                a.	Data Collection
+                b.	Data Preparation
+                c.	Model Training
+                d.	Model evaluation
+                e.	Model deployments
+
+4.	Define the terms "penalty" and "reward" in the context of reinforcement learning.
+Ans:	In the context of reinforcement learning, a penalty is a negative consequence that is given to an agent for taking an action that is not desired. A reward is a positive consequence that is given to an agent for taking an action that is desired.
+
+5.	Explain the term "learning as a search"?
+Ans:	Learning as a search is a metaphor for the process of machine learning. In this metaphor, the agent is searching for a good policy, which is a set of rules that tells the agent how to behave in each situation. The agent starts by exploring the environment, which means that it tries out different actions and observes the consequences of those actions. The agent then uses this information to improve its policy.
+
+6.	What are the various goals of machine learning? What is the relationship between these and human learning?
+Ans:	The goals of machine learning are to:
+                    a.	Learn from data
+                    b.	Generalize to new data
+                    c.	Improve over time
+        The goals of machine learning are like the goals of human learning. Both humans and machine learning algorithms need to be able to learn from data, generalize to new data, and improve over time.
+
+7.	Illustrate the various elements of machine learning using a real-life illustration.
+Ans:	The various elements of machine learning are:
+            a.	Data collection: A company wants to build a machine learning model that can predict customer churn. The company collects data on its customers, such as their demographics, purchase history, and customer service interactions.
+            b.	Data preparation: The company cleans the data and removes any errors or inconsistencies. The company also transforms the data into a format that the machine learning algorithms can understand.
+            c.	Model training: The company trains a machine learning algorithm on the data. The algorithm learns to predict customer churn by identifying patterns in the data.
+            d.	Model evaluation: The company evaluates the machine learning model by testing it on new data that it has not seen before. The company calculates the accuracy of the model and determines whether it is performing well enough to be deployed.
+            e.	Model deployments
+
+8.	Provide an example of the abstraction method.
+Ans:	An example of the abstraction method in machine learning is the use of neural networks. Neural networks are a type of machine learning algorithm that are inspired by the way the human brain works. They are made up of layers of interconnected nodes, and each node performs a simple mathematical operation. By combining these simple operations, neural networks can learn to perform complex tasks, such as image recognition and natural language processing.
+
+9.	What is the concept of generalization? What function does it play in the machine learning process?
+Ans:	Generalization is the ability of a machine learning model to make accurate predictions on new data that it has not seen before. Generalization is important because it allows machine learning models to be used in real-world applications. If a machine learning model can only make accurate predictions on data that it has seen before, it will be of limited use.
+
+10.	What is classification, exactly? What are the main distinctions between classification and regression?
+Ans:	Classification is a type of machine learning task in which the goal is to assign a label to each data point.
+The main distinction between classification and regression is that classification assigns labels to data points, while regression predicts a continuous value.
+
+11.	What is regression, and how does it work? Give an example of a real-world problem that was solved using regression.
+Ans:	Regression is a type of machine learning task in which the goal is to predict a continuous value. For example, we could use regression to predict the price of a house, or to predict the number of sales that a company will make.
+
+12.	Describe the clustering mechanism in detail.
+Ans:	Clustering is a type of unsupervised machine learning task in which the goal is to group similar data points together. Clustering is used to find patterns in data that are not explicitly labelled.
+
+13.	Make brief observations on two of the following topics:
+i.	Machine learning algorithms are used:
+        Machine learning algorithms are used in a wide variety of applications like:
+                a.	Predictive analytics: Machine learning algorithms can be used to predict future events, such as the likelihood of a customer churn or the demand for a product.
+                b.	Natural language processing: Machine learning algorithms can be used to understand and process human language, such as translating text or generating text.
+                c.	Computer vision: Machine learning algorithms can be used to identify and classify objects in images or videos, such as recognizing faces or detecting traffic signs.
+                d.	Robotics: Machine learning algorithms can be used to control robots, such as allowing them to navigate autonomously or interact with objects in the environment.
+
+ii.	Studying under supervision: 
+    Reinforcement learning is a type of machine learning in which an agent learns to perform a task by trial and error. The agent is given a reward for taking actions that lead to desired outcomes, and a penalty for taking actions that lead to undesired outcomes.
+Reinforcement learning is based on the principle of positive reinforcement, which is a learning process that strengthens behaviours that are followed by rewarding consequences.
