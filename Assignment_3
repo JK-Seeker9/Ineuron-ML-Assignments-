@@ -1,0 +1,81 @@
+1.	Explain the term machine learning, and how does it work? Explain two machine learning applications in the business world. What are some of the ethical concerns that machine learning applications could raise?
+    Ans: Machine learning is a branch of Artificial Intelligence which allows the software applications to predict outcomes as accurate as possible. It uses past data to predict the future outcomes.  
+    The two machine learning applications in the business world are: Fraud Detection and Risk Assessment.
+    The ethical concerns that machine learning applications could raise are that it can give biased outcomes if trained on a biased input data.
+    It is difficult to hold machine learning algorithms accountable for any decision made by using it.     
+
+2.	Describe the process of human learning:
+    i.	Under the supervision of experts: 
+    In this type of learning, students are taught by teachers or instructors who have expertise in the subject matter. The teacher or instructor provides guidance and feedback to help the student learn. This type of learning can be effective because it allows students to learn from someone who has experience and knowledge in the subject matter. However, it can also be time-consuming and expensive.
+
+    ii.	With the assistance of experts in an indirect manner: 
+    In this type of learning, students use resources created by experts, such as textbooks, online courses, and tutorials. These resources provide students with information and guidance that can help them learn on their own. This type of learning can be more efficient and cost-effective than traditional learning, but it can also be less personalized.
+
+    iii.	Self-education: 
+    In this type of learning, students identify their own learning goals, find resources to help them achieve those goals, and track their own progress. Self-education can be a very effective way to learn, but it can also be challenging. Students need to be motivated and disciplined to succeed in self-education.
+
+3.	Provide a few examples of various types of machine learning.
+    Ans: The examples of various types of machine learning are: 
+        i.	Supervised learning
+        ii.	Un Supervised learning
+        iii.	Reinforcement learning 
+        iv.	Semi supervised learning
+
+4.	Examine the various forms of machine learning.
+    Ans: The various forms of machine learning are:
+        i.	Supervised Learning: This form of machine learning are trained on the dataset that includes both input and output. In this the algorithm identifies the pattern between input and output and uses these patterns to predict new output. It is used in variety of tasks, such as: Classification, Regression, NLP.
+        ii.	Un-Supervised learning: In this the algorithm is trained only on input values. The algorithm identifies patterns in this input data and then uses these patterns to cluster data into groups. It is used in tasks like: Clustering, dimensionality, Anomaly detection.
+
+5.	Can you explain what a well-posed learning problem is? Explain the main characteristics that must be present to identify a learning problem properly.
+    Ans: A well-posed learning problem is a problem that can be solved by using machine learning algorithm. The main characteristics that must be present are: A clear objective, Correct quality and quantity of data, Feasible and Scalable solution.
+
+6.	Is machine learning capable of solving all problems? Give a detailed explanation of your answer.
+    Ans: Machine learning is a powerful tool that can be used to solve a wide variety of problems. However, it is not capable of solving all problems.
+    There are a number of reasons why machine learning cannot solve all problems, including the need for data, the fact that machine learning is not perfect, and the fact that machine learning can be computationally expensive.
+
+7.	What are the various methods and technologies for solving machine learning problems? Any two of them should be defined in detail.
+    Ans: The two most common methods of machine learning are:
+        i.	Supervised Learning: This form of machine learning is trained on the dataset that includes both input and output. In this the algorithm identifies the pattern between input and output and uses these patterns to predict new output. It is used in variety of tasks, such as: Classification, Regression, NLP.
+        ii.	Un-Supervised learning: In this the algorithm is trained only on input values. The algorithm identifies patterns in this input data and then uses these patterns to cluster data into groups. It is used in tasks like: Clustering, dimensionality, Anomaly detection.
+
+8.	Can you explain the various forms of supervised learning? Explain each one with an example application.
+    Ans: The various forms of supervised learning are:
+        i.	Classification: This is the task of assigning labels to data points. For example, you could use classification to classify images as cats or dogs.
+        ii.	Regression: This is the task of predicting a continuous value from a set of data points. For example, you could use regression to predict the price of a house based on its features.
+        iii.	Decision tree: Decision trees are a type of supervised learning algorithm that can be used for both classification and regression tasks. In medical diagnosis, a decision tree can be used to help doctors diagnose diseases.
+
+9.	What is the difference between supervised and unsupervised learning? With a sample application in each region, explain the differences.
+    Ans: Supervised learning and unsupervised learning are two main types of machine learning. Supervised learning algorithms are trained on data that includes both input and output values. The algorithm learns to identify patterns between the input and output values and use these patterns to predict new output values for unseen input data. 
+    Unsupervised learning algorithms are trained on data that only includes input values. The algorithm learns to identify patterns in the input data and use these patterns to cluster the data into groups or to identify outliers.
+
+10.	Describe the machine learning process in depth.
+    Ans: The machine learning process is a series of steps that are followed in order to build a machine learning model. The steps involved in the machine learning process are:
+        i.	Problem Definition
+        ii.	Data Collection
+        iii.Feature Engineering
+        iv.	Model Selection
+        v.	Model Training
+        vi.	Model Evaluation
+        vii.Model Deployment
+    The machine learning process is an iterative process.
+11.	Make brief notes on any two of the following:
+    i.	Deep learning applications in healthcare: Deep learning is a type of machine learning that uses artificial neural networks to learn   from data. Deep learning has been used in a variety of healthcare applications, including:
+        a.	Medical Image Analysis
+        b.	Drug Discovery
+        c.	Personalized Medicine
+        d.	Clinical decision reporting
+
+    ii.	Linear regression (simple): Linear regression is a type of regression analysis that uses a straight line to model the relationship between two variables. Linear regression is a simple and widely used statistical method that can be used to solve a variety of problems, such as:
+        a.	Predicting continuous values
+        b.	Understanding the relation between two variables
+        c.	Making inferences about the population
+
+12.	Make a comparison between: -
+    1.	Generalization and abstraction: 
+    Generalization is the ability to apply what has been learned to new situations. Whereas abstraction is the ability to identify the essential features of a problem and ignore the irrelevant details.
+
+    2.	Learning that is guided and unsupervised: 
+    Guided learning is a type of machine learning where the algorithm is given labelled data. This means that the data has been tagged with the correct output. While Unsupervised learning is a type of machine learning where the algorithm is not given labelled data. This means that the algorithm must learn to identify patterns in the data on its own.
+    
+    3.	Regression and classification: 
+    Regression is a type of machine learning where the algorithm is tasked with predicting a continuous value. Whereas, Classification is a type of machine learning where the algorithm is tasked with predicting a category.
