@@ -1,0 +1,70 @@
+1.	What are the key tasks involved in getting ready to work with machine learning modelling?
+
+    Ans: The key tasks involved in work with machine learning modelling are:
+        i.	Data Collection
+        ii.	Data Cleaning
+        iii.	Data Preparation
+        iv.	Model Selection
+        v.	Model Training
+        vi.	Model Evaluation
+        vii.	Model Deployment
+
+2.	What are the different forms of data used in machine learning? Give a specific example for each of them.
+
+    Ans: There are two main forms of data used in machine learning:
+        i.	Numeric data: Numeric data is data that can be represented as numbers. For example, height, weight, and income are all numeric data.
+        ii.	Categorical data: Categorical data is data that can be categorized into groups. For example, gender, race, and education level are all categorical data.
+3.	Distinguish:
+
+    1.	Numeric vs. categorical attributes: 
+        Numeric attributes are attributes that can be represented as numbers. While Categorical attributes are attributes that can be categorized into groups.
+
+    2.	Feature selection vs. dimensionality reduction: 
+        Feature selection is the process of selecting a subset of features from a dataset. The goal of feature selection is to improve the performance of a machine learning model. Dimensionality reduction is the process of reducing the number of dimensions in a dataset. The goal of dimensionality reduction is to make it easier to visualize and analyse the data.
+
+4.	Make quick notes on any two of the following:
+
+    1.	The histogram:
+        A histogram is a graphical representation of the distribution of data. A histogram is created by dividing the data into bins and then counting the number of data points in each bin. The height of each bar in the histogram represents the number of data points in that bin.
+
+    2.	Use a scatter plot:
+        A scatter plot is a graphical representation of the relationship between two variables. A scatter plot is created by plotting the values of the two variables on the x-axis and y-axis, respectively. The points on the scatter plot represent the data points.
+
+5.	Why is it necessary to investigate data? Is there a discrepancy in how qualitative and quantitative data are explored?
+
+    Ans: It is necessary to investigate data because it can help us to understand the problem that we are trying to solve. Data exploration can help us to identify patterns in the data, to understand the relationships between different variables, and to identify outliers.
+
+    There is a discrepancy in how qualitative and quantitative data are explored. Qualitative data is explored using methods such as coding, thematic analysis, and content analysis. Quantitative data is explored using methods such as descriptive statistics, inferential statistics, and hypothesis testing.
+
+6.	What are the various histogram shapes? What exactly are ‘bins?
+
+    Ans: The various histogram shapes are:
+        i.	Normal Distribution
+        ii.	Bimodal Distribution
+        iii.	Poisson Distribution
+        iv.	Uniform Distribution
+    Bins are the intervals that are used to divide the data in a histogram. The number of bins and the width of the bins can affect the shape of the histogram.
+
+7.	How do we deal with data outliers?
+
+    Ans: There are various ways to deal with outliers in the dataset. Some of them are listed below:
+        i.	Remove them from dataset.
+        ii.	Transform the data using logarithmic transformations or box-cox transformations.
+
+8.	What are the various central inclination measures? Why does mean vary too much from median in certain data sets?
+
+    Ans: The various central inclination measures are:
+        i.	Mean
+        ii.	Median
+        iii.	Mode
+    The mean varies too much from median in certain datasets if the data is not symmetrical. The non symmetrical data is known as Skewed data.
+
+9.	Describe how a scatter plot can be used to investigate bivariate relationships. Is it possible to find outliers using a scatter plot?
+
+    Ans: Scatter plots can be used to investigate bivariate relationships, such as correlation and causation. 
+    Correlation is a measure of the strength of the relationship between two variables. Causation is a relationship between two variables where one variable causes the other variable to change.
+    It is possible to find outliers using a scatter plot. Outliers can be identified by looking for data points that are far away from the main cluster of points on the scatter plot.
+
+10.	Describe how crosstabs can be used to figure out how two variables are related.
+
+    Ans: A crosstab is a table that shows the relationship between two variables. It is created by counting the number of times each combination of values of the two variables occurs in the data.
